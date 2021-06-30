@@ -26,7 +26,7 @@
 <h3>Error message on client side: -> </h3> "@parcel/package-manager: Could not find module "@parcel/transformer-sass" satisfying 2.0.0-beta.2" => this message appears because there is a different version of @parcel/transformer-sass on the user machine.</br>
 <h3>Troubleshooting: -> </h3> To fix this, the dependence must be deleted (-> using "npm uninstall < - pkg name - >". When the user restarts the build, a new matching version of "@parcel/transformer-sass" will automatically be installed.</br>
 
-<h2>Project Brief:</h2>"
+<h2>Project Brief:</h2>
 
 <h2>Objective</h2>
 Using React, build the client-side for an application called myFlix based on its existing server-side code (REST API and database).
