@@ -23,8 +23,8 @@
   </br>
 -> open browser on http://localhost:1234 with output "Good morning" in css: steelblue to verify correct implementing of parcel and  the filestructure.</br>
 
--> Error message on client side: @parcel/package-manager: Could not find module "@parcel/transformer-sass" </br>
--> troubleshooting: installing @parcel/transformer-sass as local dependency</br>
+<h3>Error message on client side: -> </h3> @parcel/package-manager: Could not find module "@parcel/transformer-sass" </br>
+<h3>Troubleshooting: -> </h3> installing @parcel/transformer-sass as local dependency</br>
 
 
 <h2>Project Brief:</h2>
